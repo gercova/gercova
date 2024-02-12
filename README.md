@@ -5,8 +5,8 @@
 I'm a systems and computer engineer, I specialized in the development of systems and web applications, as well as the design and backend development for clinical systems and also the administration of SQL databases such as MySQL, Posgre, SQL Server, Firebird. I am currently doing my specialization in Python.
 
 ## Contact 
-<a href="germancotrina17@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gercova" /></a>
-<a href="carman16@hotmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="gercova" /></a>
+<a href="mailto:germancotrina17@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gercova" /></a>
+<a href="mailto:carman16@hotmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="gercova" /></a>
 <a href="https://t.me/Gercova" target="_blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="gercova" /></a>
 <a href="https://linkedin.com/in/gercovazick" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="gercova"/></a>
 <a href="https://instagram.com/gesichtslosnamenlos/" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="gercova" /></a>
