@@ -11,6 +11,11 @@ I'm a systems and computer engineer, I specialized in the development of systems
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)&nbps;@gesishtlossnameloss&nbsp;<br>
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)&nbps;germancotrina17@gmail.com&nbsp;<br>
 
+<p align="left">
+<a href="https://linkedin.com/in/gercovazick" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gercova" height="30" width="40" /></a>
+<a href="https://instagram.com/gesichtslosnamenlos/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="gercova" height="30" width="40" /></a>
+</p>
+
 ## Skills
 
 - Developer Web Designer & Developer
