@@ -11,9 +11,9 @@ I'm a systems and computer engineer, I specialized in the development of systems
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)&nbps;@gesishtlossnameloss&nbsp;<br>
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)&nbsp;germancotrina17@gmail.com&nbsp;<br>
 
-
-<a href="https://linkedin.com/in/gercovazick" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gercova" height="30" width="40" /></a>
-<a href="https://instagram.com/gesichtslosnamenlos/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="gercova" /></a>
+<a href="https://t.me/Gercova" target="_blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="gercova" /></a>
+<a href="https://linkedin.com/in/gercovazick" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="gercova"/></a>
+<a href="https://instagram.com/gesichtslosnamenlos/" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="gercova" /></a>
 
 ## Skills
 
