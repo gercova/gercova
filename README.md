@@ -4,6 +4,13 @@
 
 I'm a systems and computer engineer, I specialized in the development of systems and web applications, as well as the design and backend development for clinical systems and also the administration of SQL databases such as MySQL, Posgre, SQL Server, Firebird. I am currently doing my specialization in Python.
 
+## Contact 
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)&nbsp;German Cotrina Valles&nbsp;<br>
+![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)&nbsp;carman16@hotmail.com&nbsp;<br>
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)&nbsp;@gercova&nbsp;<br>
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)&nbps;@gesishtlossnameloss&nbsp;<br>
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)&nbps;germancotrina17@gmail.com&nbsp;<br>
+
 ## Skills
 
 - Developer Web Designer & Developer
